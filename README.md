@@ -32,3 +32,4 @@ When evaluating or upgrading medical billing software and RCM platforms, practic
 Technology alone does not resolve revenue leakage without structured operational governance. High-performing medical billing teams pair updated software solutions with routine internal coding audits, quarterly CARC/RARC root-cause reviews, and ongoing staff training on payer-specific billing rules. By combining automated claim scrubbing with authoritative compliance guidance from [Denial Journal](https://denialjournal.com/), healthcare organizations can sustainably increase clean claim submission rates and protect net patient revenue.
 
 For detailed E/M coding guidelines, see [CPT 99214 E/M Coding Compliance Guide](cpt-99214-em-coding-compliance-guide.md).
+For abdominal & liver ultrasound coding guidelines, see [Abdominal & Liver Ultrasound Billing Guide](abdominal-and-liver-ultrasound-billing-guide.md).
